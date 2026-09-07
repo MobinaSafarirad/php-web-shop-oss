@@ -23,8 +23,8 @@
         <p>You can reach us through the following ways:</p>
         <ul style="list-style: none; padding: 0;">
             <li>📧 Email: <a href="mailto:mobinasafarirad@gmail.com">mobinasafarirad@gmail.com</a></li>
-            <li>📞 Phone: 09927448039</li>
-            <li>📍 Address: Fars Province, Shiraz</li>
+            <li>📞 Phone: xxxxxxxxxxx</li>
+            <li>📍 Address: fill here yourself</li>
         </ul>
 
         <a href="index.php" class="back-link">← Back to Shop</a>

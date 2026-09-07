@@ -39,7 +39,7 @@ Run locally (XAMPP / LAMP / MAMP).
 🔐 Admin Access
 URL: admin/login.php
 
-Default: admin / 1234
+Default: myshop_user / 1234
 
 🤝 Contributing
 Contributions are welcome!

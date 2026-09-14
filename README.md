@@ -28,7 +28,7 @@ A simple educational product store built with **pure PHP & MySQL**. This project
 
 ## Quick Start
 
-```bash
+```bash 
 git clone https://github.com/MobinaSafarirad/php-web-shop-oss.git
 Import sql/shop_db.sql to your MySQL database.
 
